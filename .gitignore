@@ -1,1 +1,6 @@
-myos.iso
+*.iso
+
+*.bin
+
+*.o
+
